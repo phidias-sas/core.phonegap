@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "phidias.css",
+        "scope": null,
+        "escapedName": "phidias.css",
+        "name": "phidias.css",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/santiago/Dropbox/dev/repositories/my-vue-project"
+    ]
+  ],
+  "_from": "phidias.css@latest",
+  "_id": "phidias.css@0.1.0",
+  "_inCache": true,
+  "_location": "/phidias.css",
+  "_nodeVersion": "4.4.5",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/phidias.css-0.1.0.tgz_1478451398067_0.893950009951368"
+  },
+  "_npmUser": {
+    "name": "phidias",
+    "email": "santiago.cortes@phidias.com.co"
+  },
+  "_npmVersion": "2.15.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "phidias.css",
+    "scope": null,
+    "escapedName": "phidias.css",
+    "name": "phidias.css",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/phidias.css/-/phidias.css-0.1.0.tgz",
+  "_shasum": "8748d22ddcf9c9b4cf6a98ee6017617b6824914a",
+  "_shrinkwrap": null,
+  "_spec": "phidias.css",
+  "_where": "/home/santiago/Dropbox/dev/repositories/my-vue-project",
+  "author": {
+    "name": "santiago.cortes@phidias.com.co"
+  },
+  "bugs": {
+    "url": "https://github.com/phidias-sas/phidias.css/issues"
+  },
+  "dependencies": {},
+  "description": "Pure CSS UI kit",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-sass": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "8748d22ddcf9c9b4cf6a98ee6017617b6824914a",
+    "tarball": "https://registry.npmjs.org/phidias.css/-/phidias.css-0.1.0.tgz"
+  },
+  "gitHead": "f904247f19a0d786d73edfdc4423f22cbab494d7",
+  "homepage": "https://github.com/phidias-sas/phidias.css#readme",
+  "license": "MIT",
+  "main": "dist/phidias.min.css",
+  "maintainers": [
+    {
+      "name": "phidias",
+      "email": "santiago.cortes@phidias.com.co"
+    }
+  ],
+  "name": "phidias.css",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phidias-sas/phidias.css.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}
