@@ -1,5 +1,5 @@
 <?php
-$policy = '<meta http-equiv="Content-Security-Policy" content="default-src \'self\' data: gap: http: https: ws: \'unsafe-inline\' https://ssl.gstatic.com; style-src \'self\' \'unsafe-inline\'; media-src *; img-src * data:">';
+$policy = '<meta http-equiv="Content-Security-Policy" content="default-src \'self\' data: gap: http: https: ws: \'unsafe-inline\' https://ssl.gstatic.com; style-src * blob: \'unsafe-inline\'; media-src *; img-src * data:; script-src * \'unsafe-inline\'">';
 
 `rm -rf www`;
 `cp -rf ../core.vue/dist www`;

@@ -28,7 +28,6 @@
     }
   }
 
-  /* iPad safari *//*
   &:hover {
     & > :last-child {
       visibility: visible;
@@ -37,10 +36,11 @@
     }
   }
 
+/*
   :focus + :last-child {
       visibility: visible;
       opacity: 1;
       transform: translate(0, 0) scaleX(1) scaleY(1);    
-  }*/
-
+  }
+*/
 }
