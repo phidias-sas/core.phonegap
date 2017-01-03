@@ -20,3 +20,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.phi-avatar {
+    border-radius: 5px !important;
+}

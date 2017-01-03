@@ -1,4 +1,8 @@
 #!/bin/sh
 export ANDROID_HOME=/home/santiago/Android/Sdk
-php build.php ; phonegap build android
+rm -rf platforms/android
+php build.php
+phonegap platform add android
+php icons.php
+phonegap build android
 ~/Android/Sdk/platform-tools/adb install -r platforms/android/build/outputs/apk/android-debug.apk
